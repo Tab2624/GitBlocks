@@ -1,0 +1,32 @@
+img {
+    height: 200px;
+    outline: 2px solid black;
+}
+
+.topBox{
+    display: flex;
+    background-color: cyan;
+    justify-content: space-between;
+    padding: 3%;
+    margin: 10px;
+}
+
+.middleBox{
+    display: flex;
+    background-color:salmon ;
+    justify-content: space-around;
+    padding: 3%;
+    margin: 10px;
+}
+
+.bottomBox{
+    display: flex;
+    background-color: gray;
+    justify-content: space-around;
+    padding: 3%;
+    margin: 10px;
+}
+
+.center{
+    text-align: center;
+}
